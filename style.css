@@ -68,10 +68,38 @@
 }
 .still-reading-see-container {
     position: absolute;
-    top: 2389px;
-    left: calc(50% - 224px);
+    top: 2460px;
+    left: calc(50% - 250px);
     font-size: 15px;
     color: #00685e;
+}
+
+.starts-at-2100 {
+    margin: 0;
+    font-weight: 600;
+}
+.per-user-per {
+    margin: 0;
+    font-size: 14px;
+    color: #85a19e;
+}
+.starts-at-2100-container {
+    position: relative;
+}
+.starts-at-2100-per-user-per-m-wrapper {
+    position: absolute;
+    top: 2347px;
+    left: 432px;
+    background: radial-gradient(50% 50% at 50% 50%, #fff, #9fedef);
+    width: 576px;
+    height: 89px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 23px;
+    color: #00685e;
+    font-family: Inter;
 }
 .dont-wait {
     font-weight: 500;
@@ -82,8 +110,8 @@
 }
 .dont-wait-contact-container {
     position: absolute;
-    top: 2489px;
-    left: calc(50% - 256px);
+    top: 2540px;
+    left: calc(50% - 282px);
     font-size: 15px;
     display: inline-block;
     width: 512px;
@@ -92,7 +120,7 @@
 .image-1-icon {
     position: absolute;
     top: 118px;
-    left: calc(50% - 288px);
+    left: calc(50% - 316px);
     width: 576px;
     height: 576px;
     object-fit: cover;
@@ -107,7 +135,7 @@
 .we-help-businesses-grow-parent {
     position: absolute;
     top: 742px;
-    left: 433px;
+    left: 443px;
     width: 575px;
     display: flex;
     flex-direction: column;
@@ -369,7 +397,7 @@
     box-sizing: border-box;
     gap: 12.4px;
 }
-.frame-parent1 {
+.frame-parent4 {
     position: absolute;
     top: 2179px;
     left: 440px;
@@ -384,7 +412,7 @@
     box-sizing: border-box;
     gap: 12.4px;
 }
-.frame-parent2 {
+.frame-parent5 {
     position: absolute;
     top: 2014px;
     left: 844px;
@@ -414,9 +442,9 @@
     box-sizing: border-box;
     gap: 12.4px;
 }
-.frame-parent4 {
+.frame-parent6 {
     position: absolute;
-    top: 1848px;
+    top: 1840px;
     left: 440px;
     background-color: #fff;
     width: 156px;
@@ -429,7 +457,7 @@
     box-sizing: border-box;
     gap: 12.4px;
 }
-.frame-parent5 {
+.frame-parent2 {
     position: absolute;
     top: 1848px;
     left: 642px;
@@ -444,7 +472,7 @@
     box-sizing: border-box;
     gap: 12.4px;
 }
-.frame-parent6 {
+.frame-parent1 {
     position: absolute;
     top: 1848px;
     left: 844px;
